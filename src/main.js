@@ -80,13 +80,6 @@ let step = ()=>{
 step();
 
 
-// setTimeout(()=>{
-//     style.innerHTML = `
-//     body{
-//         color:red;
-//     }
-//     `
-// },3000)
 
 
 
